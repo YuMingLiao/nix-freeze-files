@@ -23,6 +23,6 @@ Convert a tree of files into an tree of fixed-output paths.
 [snack](https://github.com/nmattia/snack), the Nix-based incremental build tool for Haskell projects, needs a way to prevent redundantly analyzing import dependencies of module files in every builds. An attribute set of fixed-output file paths can help.
 
 # Credits
-The package is modified from Jack Kelly's [nix-freeze-tree](https://sr.ht/~jack/nix-freeze-tree/).
+This package is modified from Jack Kelly's [nix-freeze-tree](https://sr.ht/~jack/nix-freeze-tree/).
 
 
